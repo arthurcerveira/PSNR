@@ -3,3 +3,6 @@ venv/
 
 # VS Code 
 .pylintrc
+
+# YUV files
+*.yuv
